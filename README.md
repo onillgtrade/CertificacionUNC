@@ -22,4 +22,4 @@ MYRIADPRO
 #020000
 #F9F9F9
 ## LOGO
-<img src="https://github.com/onillgtrade/CertificacionUNC/blob/main/LOGTransparente.png">
+<img src="https://github.com/onillgtrade/CertificacionUNC/blob/main/LOGTransparente.png" width="400px" height="400px">
