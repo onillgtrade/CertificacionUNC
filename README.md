@@ -24,4 +24,4 @@ MYRIADPRO
 ## FIGMA
 https://www.figma.com/file/9TgukN2fLNB1oMdktnk6i4/Untitled?type=design&node-id=0-1&mode=design&t=Qi7nuO17KC0MDfsq-0
 ## LOGO
-<img src="https://github.com/onillgtrade/CertificacionUNC/blob/main/LOGTransparente.png" width="400px" height="400px">
+<img src="https://github.com/onillgtrade/CertificacionUNC/blob/main/LOGPESAS.png" width="400px" height="400px">
